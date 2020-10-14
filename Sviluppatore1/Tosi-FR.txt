@@ -1,0 +1,5 @@
+The system shall provide all users with an upload curriculum feature
+
+The system shall provide all companies with a job posting function (title, description, salary (optional), map, topic, type of contract, working hours, educational qualification) 
+
+The system shall sort job offers based on salary (descending order) 

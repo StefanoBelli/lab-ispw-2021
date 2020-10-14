@@ -1,0 +1,5 @@
+As a company, I want to read the freelancers‘ CV, so that I can choose the most experienced. 
+
+As a company, I want to post new job offers with candidature requirements, so that I can easily find better employees. 
+
+As a candidate, I want to sort job offers based on salary, so that I can choose the most profitable. 
