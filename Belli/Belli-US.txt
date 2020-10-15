@@ -1,0 +1,5 @@
+As a user, I want to choose the minimum acceptable distance for me, so that I can easily get to the workplace. 
+
+As a recruiter for a video game company, I want to get a shared editor to test programmersÎé} skills and save their on-the-fly work, so that I can analyze it better later. 
+
+As a company, I want to analyze social profiles of candidates, so that I can define their profile. 

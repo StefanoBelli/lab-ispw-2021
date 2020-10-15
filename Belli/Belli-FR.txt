@@ -1,0 +1,5 @@
+The system shall provide all users with a search filter to decide whether to seek a "part time job" or a "full time job". 
+
+The system shall force every user to login before looking at their private "main page"
+
+The system shall facilitate the hiring process for companies, so it is required that after ending a session, the interviewer has the possibility to hire or reject the candidate (with no expiration time). 
