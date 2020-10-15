@@ -1,0 +1,12 @@
+
+
+
+Functional Requirements
+
+
+
+- The system shall provide the ability to display a calendar for time management 
+
+- The system shall notify you by email of new offers from a favorite company 
+
+- The system shall provide the possibility to search based on the user's interest using advanced search filters

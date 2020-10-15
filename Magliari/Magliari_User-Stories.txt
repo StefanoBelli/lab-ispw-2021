@@ -1,0 +1,21 @@
+
+
+User Stories
+
+
+
+- As an user, I want to search for jobs using search filters *, so that I can only see the offers that interest me. 
+
+- As a company, I want to manage my interview calendar, so that I can organize my time and interviews. 
+
+- As an user, I want to be notified by email when a company offers a new job, so that I can schedule an interview. 
+
+ 
+
+*filters: salary, topic (Acquisti, logistica, magazzino; Affari legali; Amministrazione contabilità, segreteria; Arti grafiche, design; Attenzione al cliente; Commercio al dettaglio, GDO, Retail; 
+	Edilizia, immobiliare;  Farmacia, medicina, salute; Finanza, banche e credito; Formazione, istruzione; Informatica, IT e telecomunicazioni; Ingegneria; Marketing, comunicazione; Operai, 
+	produzione, qualità; Professioni e mestieri; Pubblica amministrazione; Risorse umane, recruiting; Settore farmaceutico; Turismo, ristorazione; Vendite; Altre...), type of contract(“full time”, 
+	“part time”), working hours (”0-4”, “4-8”, “8-12”, altro), educational qualification (”Licenza elementare, Licenza Media, Diploma di Scuola Superiore, Diploma di Laurea di Primo Livello, Diploma 
+	di Laurea di Secondo Livello, Master, Dottorato di Ricerca”) 
+
+ 
