@@ -1,0 +1,13 @@
+language: java
+
+addons:
+  sonarcloud:
+    organization: "stefanobelli"
+    token: "ade4b589231e3ae4d86af083c6f9f2da329c83de"
+
+jdk:
+  - oraclejdk14
+
+script:
+  - ant build
+  - sonar-scanner
